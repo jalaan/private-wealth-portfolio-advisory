@@ -87,11 +87,4 @@ python analysis/private_bank_workflow_analysis.py
 
 The script reads the synthetic CSV files in `data/` and recreates the analytical CSV outputs in `output/`.
 
-## Suggested Resume Entry
-
-**Private Bank Investment Professional Simulation | Excel, Python, PowerPoint**  
-Built a synthetic private-bank portfolio support workflow evaluating client allocations, risk/return profiles, scenario outcomes, trade/blotter exceptions, fee schedules, and alternatives documentation; produced an executive-ready Excel dashboard and PowerPoint presentation simulating support for Investors and Client Advisors.
-
-## Interview Talking Point
-
-“I built this project to close the gap between my financial analysis and transaction-control background and the specific day-to-day responsibilities of a Private Bank Investment Professional. The workflow is synthetic, but it shows how I think through portfolio support, client mandates, scenario analysis, trade controls, billing reviews, alternatives documentation, accuracy, and follow-through.”
+-Jalaan Fields
