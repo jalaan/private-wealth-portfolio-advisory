@@ -1,0 +1,5 @@
+Subscription_ID,Client_ID,Fund,Commitment,Investor_Eligibility,KYC_AML,Tax_Documents,Subscription_Agreement,Capital_Call_Instructions,Overall_Status,Next_Action
+ALT-3001,PB-1001,Private Equity Co-Investment Fund,500000,Complete,Complete,Complete,Complete,Complete,Complete,Monitor capital calls
+ALT-3002,PB-1002,Private Credit Fund,300000,Complete,Complete,Pending correction,Complete,Complete,Client Correction Needed,Correct W-9 address
+ALT-3003,PB-1003,Venture Growth Fund,750000,Complete,In Review,Complete,Pending signature,Pending,Pending,Collect signature and review AML
+ALT-3004,PB-1004,Core Real Estate Fund,180000,Complete,Complete,Complete,Complete,Complete,Complete,Archive final documents

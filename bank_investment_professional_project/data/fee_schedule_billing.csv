@@ -1,0 +1,5 @@
+Account_ID,Client_ID,AUM,Fee_Tier,Annual_Fee_Rate,Billing_Frequency,Quarterly_Fee,Billing_Status,Exception_Flag
+ACCT-501,PB-1001,4500000,$2.5M-$5M,0.0075,Quarterly,8437.5,Ready,None
+ACCT-502,PB-1002,3800000,$2.5M-$5M,0.0075,Quarterly,7125.0,Review,Address change pending
+ACCT-503,PB-1003,4650000,$2.5M-$5M,0.0075,Quarterly,8718.75,Ready,None
+ACCT-504,PB-1004,2800000,$2.5M-$5M,0.0075,Quarterly,5250.0,Review,New fee schedule approval needed

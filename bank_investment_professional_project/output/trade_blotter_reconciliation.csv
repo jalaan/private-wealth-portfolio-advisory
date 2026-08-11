@@ -1,0 +1,8 @@
+Trade_ID,Account_ID,Action,Ticker,Paper_Qty,Trade_Qty,Expected_Price,Execution_Price,Notional_Difference,Control_Status
+TRD-9001,ACCT-501,BUY,AGG,2800,2800,98.25,98.29,112.0,Matched
+TRD-9002,ACCT-501,SELL,VTI,475,475,242.8,243.55,356.25,Review - price variance
+TRD-9003,ACCT-502,BUY,MUB,3600,3600,106.1,106.1,0.0,Matched
+TRD-9004,ACCT-503,BUY,BND,5000,4500,71.25,71.25,-35625.0,Exception - quantity mismatch
+TRD-9005,ACCT-504,SELL,VTV,300,300,150.1,150.12,6.0,Exception - approval missing
+TRD-9006,ACCT-503,BUY,VC-FND,1,,250000,,-250000.0,Exception - missing from trade blotter
+TRD-9007,ACCT-502,SELL,SHY,,1000,,82.4,82400.0,Exception - unmatched trade

@@ -1,0 +1,5 @@
+Client_ID,Client_Profile,Risk_Profile,Liquidity_Need,Mandate_Type,Tax_Sensitivity,Target_Return,Max_Equity,Min_Fixed_Income,Max_Alternatives,Notes
+PB-1001,Founder liquidity event,Moderate Growth,Medium,Discretionary balanced growth,High,0.065,0.6,0.25,0.2,Concentrated-stock diversification need
+PB-1002,Multi-generational family,Balanced,High,Advisory income and preservation,Medium,0.045,0.45,0.35,0.15,Income needs and cash reserve discipline
+PB-1003,Entrepreneur with operating business,Growth,Low,Discretionary long-term growth,Medium,0.075,0.7,0.15,0.25,Higher alternatives capacity; volatile income
+PB-1004,Retired executive,Conservative,High,Advisory capital preservation,High,0.035,0.3,0.5,0.1,Drawdown sensitivity and tax-aware rebalancing

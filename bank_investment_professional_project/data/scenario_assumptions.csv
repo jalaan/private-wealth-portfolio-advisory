@@ -1,0 +1,6 @@
+Scenario,Equity_Return,Fixed_Income_Return,Alternatives_Return,Cash_Return,Description
+Base Case,0.065,0.035,0.08,0.03,Moderate growth with stable rates
+Equity Drawdown,-0.18,0.025,-0.06,0.03,Risk-off environment with equity repricing
+Rates Up / Duration Shock,-0.06,-0.08,0.02,0.035,Higher rates pressure fixed income and valuation multiples
+Recession Stress,-0.22,0.06,-0.12,0.03,Equity and alternatives drawdown with quality fixed income support
+Soft Landing,0.09,0.045,0.095,0.028,Inflation moderates; broad risk assets perform

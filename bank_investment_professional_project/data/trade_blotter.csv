@@ -1,0 +1,7 @@
+Trade_ID,Account_ID,Trade_Date,Action,Ticker,Quantity,Execution_Price,Execution_Notional,Status,Exception_Type,Resolution_Notes
+TRD-9001,ACCT-501,2026-08-03,BUY,AGG,2800,98.29,275212,Executed,None,Match within tolerance
+TRD-9002,ACCT-501,2026-08-03,SELL,VTI,475,243.55,115686.25,Executed,Price variance,Review variance vs expected price; acceptable if within trade policy
+TRD-9003,ACCT-502,2026-08-04,BUY,MUB,3600,106.1,381960,Executed,None,Matched
+TRD-9004,ACCT-503,2026-08-05,BUY,BND,4500,71.25,320625,Executed,Quantity mismatch,Cancel/correct required or advisor approval for partial execution
+TRD-9005,ACCT-504,2026-08-05,SELL,VTV,300,150.12,45036,Held,Approval missing,Cannot execute until approval complete
+TRD-9007,ACCT-502,2026-08-06,SELL,SHY,1000,82.4,82400,Executed,Unmatched trade,Trade appears on trade blotter but not paper blotter
